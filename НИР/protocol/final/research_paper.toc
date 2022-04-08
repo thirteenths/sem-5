@@ -1,0 +1,42 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{ВВЕДЕНИЕ}{3}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Анализ предметной области}{4}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}История создания}{4}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Задачи, решающиеся в TLS}{4}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Описание процедуры}{4}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Обмен ключами}{5}{section.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Вывод}{5}{section.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Классификация существующих решений}{6}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Существующие решения}{6}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Обмен ключами Diffie --- Hellman, DH}{6}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Обмен ключами RSA}{7}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Критерий по колличеству ключей}{9}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Активные атаки на криптосистемы}{10}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Атака "человек посередине" (man-in-the-middle attack --- MITM)}{10}{subsection.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Атака на основе подобранного открытого текста (chosen-plaintext attack --- CPA).}{10}{subsection.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Атака на основе подобранного зашифрованного текста (chosen-ciphertext attack --- CCA).}{10}{subsection.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Атака на основе адаптивно подобранного зашифрованного текста (adaptive chosen-ciphertext attack --- CCA2).}{10}{subsection.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Вывод}{10}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{12}{chapter*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{13}{chapter*.10}%

@@ -1,0 +1,33 @@
+			int Levenshtein::recursiveMatrix()
+			{
+				resetMatrix();
+				int i = n;
+				int j = m;
+				getDistanceRec(i, j);
+				
+				outputMatrix();
+				return matrix[n][m];
+			}
+			
+			int Levenshtein::getDistanceRec(int i, int j)
+			{
+				if (matrix[i][j] != -1)
+				return matrix[i][j];
+				if (!i)
+				{
+					matrix[i][j] = j;
+					return matrix[i][j];
+				}
+				if (!j)
+				{
+					matrix[i][j] = i;
+					return matrix[i][j];
+				}
+				flag = 1;
+				if (fString[i - 1] == sString[j - 1])
+				flag = 0;
+				matrix[i][j] = min(min(getDistance(i, j - 1) + 1,
+				getDistance(i - 1, j) + 1),
+				getDistance(i - 1, j - 1) + flag);
+				return matrix[i][j];
+			}

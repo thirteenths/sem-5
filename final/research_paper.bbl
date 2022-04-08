@@ -1,0 +1,325 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{DI}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2f3d6a5ccfd5e80a609183d7af8cba9b}{%
+           family={Голуб},
+           familyi={Г\bibinitperiod},
+           given={Ю.\bibnamedelimi И.},
+           giveni={Ю\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f3d6a5ccfd5e80a609183d7af8cba9b}
+      \strng{fullhash}{2f3d6a5ccfd5e80a609183d7af8cba9b}
+      \strng{bibnamehash}{2f3d6a5ccfd5e80a609183d7af8cba9b}
+      \strng{authorbibnamehash}{2f3d6a5ccfd5e80a609183d7af8cba9b}
+      \strng{authornamehash}{2f3d6a5ccfd5e80a609183d7af8cba9b}
+      \strng{authorfullhash}{2f3d6a5ccfd5e80a609183d7af8cba9b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{СИСТЕМНЫЙ АНАЛИЗ}
+      \field{title}{ОЦЕНКА КАЧЕСТВА ЦИФРОВЫХ ИЗОБРАЖЕНИЙ}
+      \field{year}{2021}
+      \field{pages}{13}
+      \range{pages}{1}
+    \endentry
+    \entry{10}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0ba76da1c533fcc1b22eaf1ea020cb45}{%
+           family={Горячкин\bibnamedelimb Б.\bibnamedelimi С.},
+           familyi={Г\bibinitperiod\bibinitdelim Б\bibinitperiod\bibinitdelim С\bibinitperiod},
+           given={А.},
+           giveni={А\bibinitperiod},
+           suffix={Попова\bibnamedelima И.},
+           suffixi={П\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ba76da1c533fcc1b22eaf1ea020cb45}
+      \strng{fullhash}{0ba76da1c533fcc1b22eaf1ea020cb45}
+      \strng{bibnamehash}{0ba76da1c533fcc1b22eaf1ea020cb45}
+      \strng{authorbibnamehash}{0ba76da1c533fcc1b22eaf1ea020cb45}
+      \strng{authornamehash}{0ba76da1c533fcc1b22eaf1ea020cb45}
+      \strng{authorfullhash}{0ba76da1c533fcc1b22eaf1ea020cb45}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Информационные технологии}
+      \field{title}{ОЦЕНКА ВЛИЯНИЯ АЛГОРИТМОВ СЖАТИЯ РАСТРОВЫХ ИЗОБРАЖЕНИЙ НА КАЧЕСТВО ПОЛУЧЕННЫХ ИЗОБРАЖЕНИЙ}
+      \field{year}{2020}
+      \field{pages}{3}
+      \range{pages}{1}
+    \endentry
+    \entry{9}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f2b2e6271afe6d660afaf2bdd0e0207b}{%
+           family={Нуралин},
+           familyi={Н\bibinitperiod},
+           given={Д.\bibnamedelimi Г.},
+           giveni={Д\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2b2e6271afe6d660afaf2bdd0e0207b}
+      \strng{fullhash}{f2b2e6271afe6d660afaf2bdd0e0207b}
+      \strng{bibnamehash}{f2b2e6271afe6d660afaf2bdd0e0207b}
+      \strng{authorbibnamehash}{f2b2e6271afe6d660afaf2bdd0e0207b}
+      \strng{authornamehash}{f2b2e6271afe6d660afaf2bdd0e0207b}
+      \strng{authorfullhash}{f2b2e6271afe6d660afaf2bdd0e0207b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ВЕСТНИК НАУКИ И ОБРАЗОВАНИЯ}
+      \field{title}{СРАВНИТЕЛЬНЫЙ АНАЛИЗ ЭФФЕКТИВНОСТИ ГИБРИДНЫХ МЕТОДОВ СЖАТИЯ ИЗОБРАЖЕНИЙ, ИСПОЛЬЗУЮЩИХ АЛГОРИТМ ХАФФМАНА}
+      \field{year}{2020}
+      \field{pages}{8}
+      \range{pages}{1}
+    \endentry
+    \entry{RLE}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f4a08e003096ac5c5d2ace8e0e4d55ad}{%
+           family={Бакулина},
+           familyi={Б\bibinitperiod},
+           given={М.\bibnamedelimi П.},
+           giveni={М\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4a08e003096ac5c5d2ace8e0e4d55ad}
+      \strng{fullhash}{f4a08e003096ac5c5d2ace8e0e4d55ad}
+      \strng{bibnamehash}{f4a08e003096ac5c5d2ace8e0e4d55ad}
+      \strng{authorbibnamehash}{f4a08e003096ac5c5d2ace8e0e4d55ad}
+      \strng{authornamehash}{f4a08e003096ac5c5d2ace8e0e4d55ad}
+      \strng{authorfullhash}{f4a08e003096ac5c5d2ace8e0e4d55ad}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{МЕТОД ЭФФЕКТИВНОГО СЖАТИЯ БОЛЬШИХ ИНФОРМАЦИОННЫХ МАССИВОВ}
+      \field{year}{2020}
+      \field{pages}{9}
+      \range{pages}{1}
+    \endentry
+    \entry{haff}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2f6ffcf0d4969cd531e64297fed8365b}{%
+           family={Дудников\bibnamedelimb Е.\bibnamedelimi А.},
+           familyi={Д\bibinitperiod\bibinitdelim Е\bibinitperiod\bibinitdelim А\bibinitperiod},
+           given={Н.},
+           giveni={Н\bibinitperiod},
+           suffix={Алексеев\bibnamedelima К.},
+           suffixi={А\bibinitperiod\bibinitdelim К\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f6ffcf0d4969cd531e64297fed8365b}
+      \strng{fullhash}{2f6ffcf0d4969cd531e64297fed8365b}
+      \strng{bibnamehash}{2f6ffcf0d4969cd531e64297fed8365b}
+      \strng{authorbibnamehash}{2f6ffcf0d4969cd531e64297fed8365b}
+      \strng{authornamehash}{2f6ffcf0d4969cd531e64297fed8365b}
+      \strng{authorfullhash}{2f6ffcf0d4969cd531e64297fed8365b}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{German International Journal of Modern Science №9}
+      \field{title}{ВЫСОКОСКОРОСТНОЕ КОДИРОВАНИЕ ПЛОТНЫХ ПОТОКОВ ДАННЫХ МЕТОДОМ ХАФФМАНА НА ПЛИС}
+      \field{year}{2021}
+      \field{pages}{9}
+      \range{pages}{1}
+    \endentry
+    \entry{haff2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=10ca7f87fe278e1013cae27962da1695}{%
+           family={Kostikov\bibnamedelimb V.\bibnamedelimi A.\bibnamedelimi Maslova\bibnamedelima M.},
+           familyi={K\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{10ca7f87fe278e1013cae27962da1695}
+      \strng{fullhash}{10ca7f87fe278e1013cae27962da1695}
+      \strng{bibnamehash}{10ca7f87fe278e1013cae27962da1695}
+      \strng{authorbibnamehash}{10ca7f87fe278e1013cae27962da1695}
+      \strng{authornamehash}{10ca7f87fe278e1013cae27962da1695}
+      \strng{authorfullhash}{10ca7f87fe278e1013cae27962da1695}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research result. Information technologies}
+      \field{title}{COMPRESSION OF ENCRYPTED AND HIDDEN DATA. FIXING THE AVERAGE TIME WHEN PERFORMING THE HUFFMAN CODING ALGORITHM}
+      \field{year}{2021}
+      \field{number}{4}
+      \range{number}{1}
+      \field{volume}{6}
+      \range{volume}{1}
+    \endentry
+    \entry{LZW}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2c0acdd36ac46871093167bad7cfa5b5}{%
+           family={Молодкин\bibnamedelimb И.\bibnamedelimi А.},
+           familyi={М\bibinitperiod\bibinitdelim И\bibinitperiod\bibinitdelim А\bibinitperiod},
+           given={М.},
+           giveni={М\bibinitperiod},
+           suffix={Шурыгин\bibnamedelima Е.},
+           suffixi={Ш\bibinitperiod\bibinitdelim Е\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c0acdd36ac46871093167bad7cfa5b5}
+      \strng{fullhash}{2c0acdd36ac46871093167bad7cfa5b5}
+      \strng{bibnamehash}{2c0acdd36ac46871093167bad7cfa5b5}
+      \strng{authorbibnamehash}{2c0acdd36ac46871093167bad7cfa5b5}
+      \strng{authornamehash}{2c0acdd36ac46871093167bad7cfa5b5}
+      \strng{authorfullhash}{2c0acdd36ac46871093167bad7cfa5b5}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Intellectual Technologies on Transport}
+      \field{title}{Характеристики алгоритма сжатия данных без потерь на основе псевдорегулярных чисел}
+      \field{year}{2019}
+      \field{pages}{12}
+      \range{pages}{1}
+    \endentry
+    \entry{JPEG1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=882a0a8c19debad51774de0d6150a9bf}{%
+           family={Куркина\bibnamedelimb М.\bibnamedelimi В.},
+           familyi={К\bibinitperiod\bibinitdelim М\bibinitperiod\bibinitdelim В\bibinitperiod},
+           given={В.},
+           giveni={В\bibinitperiod},
+           suffix={Пономарев\bibnamedelima И.},
+           suffixi={П\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \strng{namehash}{882a0a8c19debad51774de0d6150a9bf}
+      \strng{fullhash}{882a0a8c19debad51774de0d6150a9bf}
+      \strng{bibnamehash}{882a0a8c19debad51774de0d6150a9bf}
+      \strng{authorbibnamehash}{882a0a8c19debad51774de0d6150a9bf}
+      \strng{authornamehash}{882a0a8c19debad51774de0d6150a9bf}
+      \strng{authorfullhash}{882a0a8c19debad51774de0d6150a9bf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Известия АлтГУ. Математика и механика.}
+      \field{title}{Стеганографические методы, устойчивые к JPEG сжатию}
+      \field{year}{2021}
+      \field{pages}{10}
+      \range{pages}{1}
+    \endentry
+    \entry{frac}{article}{}
+      \name{author}{1}{}{%
+        {{hash=325a0e18a7d2752541fc86998e5ac295}{%
+           family={Шепиль},
+           familyi={Ш\bibinitperiod},
+           given={Руслан\bibnamedelima Олегович},
+           giveni={Р\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{325a0e18a7d2752541fc86998e5ac295}
+      \strng{fullhash}{325a0e18a7d2752541fc86998e5ac295}
+      \strng{bibnamehash}{325a0e18a7d2752541fc86998e5ac295}
+      \strng{authorbibnamehash}{325a0e18a7d2752541fc86998e5ac295}
+      \strng{authornamehash}{325a0e18a7d2752541fc86998e5ac295}
+      \strng{authorfullhash}{325a0e18a7d2752541fc86998e5ac295}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Научно-образовательный журнал для студентов и преподавателей «StudNet»}
+      \field{title}{СЖАТИЕ ДАННЫХ И КАК УСТРОЕНЫ АРХИВАТОРЫ}
+      \field{year}{2020}
+      \field{pages}{9}
+      \range{pages}{1}
+    \endentry
+    \entry{91}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f1ae68b4b70169a171756bf689bd894e}{%
+           family={Сахибназарова\bibnamedelimb В.\bibnamedelimi Б.},
+           familyi={С\bibinitperiod\bibinitdelim В\bibinitperiod\bibinitdelim Б\bibinitperiod},
+           given={А.},
+           giveni={А\bibinitperiod},
+           suffix={Кудрина\bibnamedelima М.},
+           suffixi={К\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1ae68b4b70169a171756bf689bd894e}
+      \strng{fullhash}{f1ae68b4b70169a171756bf689bd894e}
+      \strng{bibnamehash}{f1ae68b4b70169a171756bf689bd894e}
+      \strng{authorbibnamehash}{f1ae68b4b70169a171756bf689bd894e}
+      \strng{authornamehash}{f1ae68b4b70169a171756bf689bd894e}
+      \strng{authorfullhash}{f1ae68b4b70169a171756bf689bd894e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Труды Международного симпозиума «Надежность и качество»}
+      \field{title}{ИССЛЕДОВАНИЕ ВАРИАНТОВ РЕАЛИЗАЦИИ И МЕТОДОВ УСКОРЕНИЯ ФРАКТАЛЬНОГО СЖАТИЯ ИЗОБРАЖЕНИЙ}
+      \field{year}{2018}
+      \field{pages}{7}
+      \range{pages}{1}
+    \endentry
+    \entry{fr}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3f4854229fa74c86d8f9e238a666e4f8}{%
+           family={Чекина},
+           familyi={Ч\bibinitperiod},
+           given={М.\bibnamedelimi Д.},
+           giveni={М\bibinitperiod\bibinitdelim Д\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f4854229fa74c86d8f9e238a666e4f8}
+      \strng{fullhash}{3f4854229fa74c86d8f9e238a666e4f8}
+      \strng{bibnamehash}{3f4854229fa74c86d8f9e238a666e4f8}
+      \strng{authorbibnamehash}{3f4854229fa74c86d8f9e238a666e4f8}
+      \strng{authornamehash}{3f4854229fa74c86d8f9e238a666e4f8}
+      \strng{authorfullhash}{3f4854229fa74c86d8f9e238a666e4f8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Известия ЮФУ. Технические науки}
+      \field{title}{РЕАЛИЗАЦИЯ ФРАКТАЛЬНОГО СЖАТИЯ И ДЕКОМПРЕССИИ ИЗОБРАЖЕНИЙ ПАРАЛЛЕЛЬНО-КОВЕЙЕРНЫМ СПОСОБОМ НА РЕКОНФИГУРИРУЕМЫХ ВЫЧИСЛИТЕЛЬНЫХ СИСТЕМАХ}
+      \field{year}{2020}
+      \field{pages}{7}
+      \range{pages}{1}
+    \endentry
+    \entry{class}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3af8e6fa44ea15da46d4d52534aafe1d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={В.\bibnamedelimi Г.},
+           giveni={В\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{namehash}{3af8e6fa44ea15da46d4d52534aafe1d}
+      \strng{fullhash}{3af8e6fa44ea15da46d4d52534aafe1d}
+      \strng{bibnamehash}{3af8e6fa44ea15da46d4d52534aafe1d}
+      \strng{authorbibnamehash}{3af8e6fa44ea15da46d4d52534aafe1d}
+      \strng{authornamehash}{3af8e6fa44ea15da46d4d52534aafe1d}
+      \strng{authorfullhash}{3af8e6fa44ea15da46d4d52534aafe1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Herald of the National Technical University "KhPI".}
+      \field{title}{АНАЛИЗ И КЛАССИФИКАЦИЯ МЕТОДОВ СЖАТИЯ ИЗОБРАЖЕНИЙ}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{10}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

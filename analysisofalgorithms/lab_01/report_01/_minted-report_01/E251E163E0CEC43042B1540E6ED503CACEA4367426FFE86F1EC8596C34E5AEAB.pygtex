@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+			\PYG{k}{class} \PYG{n+nc}{Particle}
+			\PYG{p}{\PYGZob{}}
+				\PYG{p}{...}
+			\PYG{p}{\PYGZcb{};}
+\end{Verbatim}

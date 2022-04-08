@@ -1,0 +1,12 @@
+graph G
+{
+    edge[color="gray54",fontcolor="blue",fontsize=12, len=3];
+    node[color="indigo",fontsize=14, shape="septagon"];
+
+    1 -- 0 [label="10", color=red, penwidth=2.0];
+    2 -- 0 [label="15", color=red, penwidth=2.0];
+    2 -- 1 [label="20"];
+    3 -- 0 [label="12"];
+    3 -- 1 [label="13", color=red, penwidth=2.0];
+    3 -- 2 [label="14", color=red, penwidth=2.0];
+}

@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'research_paper.blg'
+[69] biber:340> INFO - === Wed Mar  2, 2022, 04:26:20
+[84] Biber.pm:415> INFO - Reading 'research_paper.bcf'
+[194] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[209] Biber.pm:4340> INFO - Processing section 0
+[218] Biber.pm:4531> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[221] bibtex.pm:1689> INFO - LaTeX decoding ...
+[242] bibtex.pm:1494> INFO - Found BibTeX data source 'biblio.bib'
+[335] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[335] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[335] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[335] Biber.pm:4174> INFO - No sort tailoring available for locale 'ru-RU'
+[346] bbl.pm:654> INFO - Writing 'research_paper.bbl' with encoding 'UTF-8'
+[353] bbl.pm:757> INFO - Output to research_paper.bbl

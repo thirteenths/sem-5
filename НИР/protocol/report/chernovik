@@ -1,0 +1,75 @@
+
+    \begin{wrapfigure}[5]{l}{90pt}
+        \includegraphics[width=3.7cm]{BMSTU.svg}
+    \end{wrapfigure}
+
+    \ 
+
+    \begin{center}
+        \small\textbf{Министерство науки и высшего образования Российской Федерации}
+
+        \small\textbf{Федеральное государственное бюджетное образовательное
+        учреждение высшего образования
+        «Московский государственный технический университет имени
+        Н.Э. Баумана
+        (национальный исследовательский университет)»
+        (МГТУ им. Н.Э. Баумана)}
+        
+
+    \end{center}
+    
+    \hrule height 2pt
+
+    \
+
+
+    ФАКУЛЬТЕТ "Информатика и системы управления"
+    
+    КАФЕДРА "Программное обеспечение ЭВМ и информационные технологии"
+
+    \
+
+    \ 
+
+    \
+
+
+
+
+    \begin{center}
+        \Large\textbf{Лабораторная работа №1}
+    \end{center}
+
+    \
+
+    \begin{flushleft}
+        \textbf{Дисциплина} \underline{Анализ алгоритмов}
+
+        \textbf{Тема} \underline{Расстояние Левенштейна и Дамерау-Левенштейна}
+
+        \textbf{Студент} \underline{Боренко Анастасия\quad}
+
+        \textbf{Группа} \underline{ИУ7-52Б\quad\quad\quad\quad\quad\quad}
+
+        \textbf{Оценка (баллы)} \underline{\quad\quad\quad\quad\quad\quad}
+
+        \textbf{Преподаватель} \underline{Волкова Л.Л.}
+    \end{flushleft}
+    
+    \
+
+    \
+
+    \
+
+    \
+
+    \
+    
+    \
+
+
+
+    \begin{center}
+        Москва 2021
+    \end{center}
