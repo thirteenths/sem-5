@@ -41,7 +41,7 @@ class DataBase:
 
     def __init__(self, pwd):
         try:
-            self.connection = psycopg2.connect(dbname='mainDB', user = 'verendaya', password= 'password', host='localhost', port= '5433')
+            self.connection = psycopg2.connect(dbname='postgres', user = 'postgres', password= 'postgres', host='localhost', port= '5432')
             self.cursor = self.connection.cursor()
         except:
             print("ОШИБКА: соединения")
